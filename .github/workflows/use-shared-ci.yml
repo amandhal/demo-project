@@ -5,4 +5,3 @@ on: push
 jobs:
   run-shared-ci:
     uses: amandhal/shared-workflows/.github/workflows/shared-ci.yml@main
-    
